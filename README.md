@@ -6,8 +6,11 @@ a simple gorilla tag fan-game i made in unity
 - add multipklayer
 - add sounds
 - add textures
-- a peoper player system ( names, colors and cosmetics )
-- a proper map
+- a peoper player system 
+-- names
+-- colors
+-- cosmetics
+-- a proper map
 
 ## i would like to thank these people for thir amazing guides
 
