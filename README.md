@@ -3,7 +3,7 @@ a simple gorilla tag fan-game i made in unity
 
 > ## To-do
 > 
-> - add multipklayer
+> - add multiplayer
 > - add sounds
 > - a proper player system 
 >   - names
